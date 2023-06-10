@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parreirasgl
 - 👀 I’m interested in programming & philosophy
-- 🌱 I’m currently learning Python & Kotlin
+- 🌱 I’m currently learning Python & Kotlin & Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: parreirasgl@hotmail.com
 
